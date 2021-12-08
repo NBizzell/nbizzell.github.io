@@ -2,7 +2,7 @@
 
 ---
 
-### Python 
+### Visualisation 
 
 [Matplotlib Experiment](/matplotlib.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Programming Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
