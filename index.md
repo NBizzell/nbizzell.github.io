@@ -4,7 +4,7 @@
 
 ### Visualisation 
 
-[Matplotlib Experiment](/matplotlib.md)
+[Matplotlib Experiment](/matplotlib.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
