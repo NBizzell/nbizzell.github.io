@@ -5,7 +5,7 @@
 ### Visualisation 
 
 [Matplotlib Experiment](/matplotlib.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/matplotlib.png?raw=true"/>
 
 ---
 [Pandas](/pandas.html)
