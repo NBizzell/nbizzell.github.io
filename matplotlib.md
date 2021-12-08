@@ -1,4 +1,4 @@
-## This can be your internal website page / project page
+## Matplotlib
 
 **Project description:** This is my cool visualisation
 
